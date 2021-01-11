@@ -1,4 +1,4 @@
-package com.mechanitis;
+package com.mechanitis.demo.javafxmaven;
 
 public class SystemInfo {
 

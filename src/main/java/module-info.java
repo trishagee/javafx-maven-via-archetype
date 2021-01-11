@@ -1,4 +1,4 @@
-module com.mechanitis {
+module com.mechanitis.demo.javafxmaven {
     requires javafx.controls;
-    exports com.mechanitis;
+    exports com.mechanitis.demo.javafxmaven;
 }
