@@ -1,4 +1,4 @@
-## Sample JavaFX Maven Application
+## Sample JavaFX Maven Application [![JetBrains team project](http://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 A simple JavaFX application based off the [OpenJFX getting started documentation](https://openjfx.io/openjfx-docs/) that uses Maven as the build file.
 
