@@ -31,7 +31,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.5</version>
                 <configuration>
-                    <mainClass>com.mechanitis.demo.javafxmaven/com.mechanitis.demo.javafxmaven.App</mainClass>
+                    <mainClass>com.mechanitis.demo.javafxmaven.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>
